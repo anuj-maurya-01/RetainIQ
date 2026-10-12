@@ -1,4 +1,4 @@
-# Employee Attrition Prediction System
+# RetainIQ
 
 This repository implements an end-to-end Machine Learning pipeline to predict whether an employee is likely to leave an organization. The project follows the complete machine learning lifecycle: data collection, preprocessing, exploratory data analysis (EDA), data balancing, model training, evaluation, and interactive dashboard deployment.
 
@@ -7,7 +7,7 @@ This repository implements an end-to-end Machine Learning pipeline to predict wh
 ## 📁 Repository Structure
 
 ```
-employee_attrition_prediction_system/
+retainiq/
 │
 ├── Dataset/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv  # IBM HR Analytics Attrition dataset

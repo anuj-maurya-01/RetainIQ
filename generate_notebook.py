@@ -42,7 +42,7 @@ def create_notebook():
 
     # Page 1: Introduction
     add_markdown([
-        "# Employee Attrition Prediction System",
+        "# RetainIQ",
         "**Author:** Data Science Team  ",
         "**Objective:** Build a predictive machine learning classification model to determine whether an employee is likely to leave an organization (attrition).",
         "",

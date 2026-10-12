@@ -9,7 +9,7 @@ from utils import load_ml_assets, predict_attrition, extract_risk_factors
 
 # Page Configuration
 st.set_page_config(
-    page_title="Executive People Analytics - Attrition Prediction System",
+    page_title="RetainIQ",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -367,7 +367,7 @@ st.markdown("""
 
 
 # Header Section
-st.markdown('<div class="premium-title">Employee Attrition Prediction System</div>', unsafe_allow_html=True)
+st.markdown('<div class="premium-title">RetainIQ</div>', unsafe_allow_html=True)
 st.markdown('<div class="premium-subtitle">Predictive retention analytics and workforce risk forecasting using machine learning classification models.</div>', unsafe_allow_html=True)
 
 # Navigation Tabs
